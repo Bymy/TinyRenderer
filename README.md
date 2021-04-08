@@ -1,0 +1,2 @@
+# TinyRenderer
+个人翻译的TinyRenderer文档和个人编码，如有问题欢迎指正以便及时修改
